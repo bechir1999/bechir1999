@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bechir
 
-<!--
-**bechir1999/bechir1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Research Engineer** — deep learning, LLMs, and agentic AI.
 
-Here are some ideas to get you started:
+I build and ship machine learning systems across various industries such as telco, defense, environmental monitoring, and enterprise software. My work spans computer vision, NLP, and LLM-based agents, from research prototypes to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- **Deep learning** — computer vision, NLP, time-series
+- **LLMs** — fine-tuning, evaluation, retrieval-augmented pipelines
+- **Agentic AI** — tool-using agents and multi-step reasoning systems
+- **Applied ML** — turning research into systems that hold up in production
+
+## A note on this profile
+
+> **Most of my professional work is in private enterprise repositories and can't be shared publicly, so this profile is deliberately lean.** Feel free to reach out if you'd like to discuss any of it in detail.
+
+📫 [Email: bechir.mnakri@gmail.com](mailto:bechir.mnakri@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bechir-mnakri-1ba358230/)
