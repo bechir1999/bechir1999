@@ -1,6 +1,6 @@
 # Bechir
 
-**AI Research Engineer** — deep learning, LLMs, and agentic AI.
+**AI Research Engineer (Thales, Orange)** — deep learning, LLMs, and agentic AI.
 
 I build and ship machine learning systems across various industries such as telco, defense, environmental monitoring, and enterprise software. My work spans computer vision, NLP, and LLM-based agents, from research prototypes to production.
 
